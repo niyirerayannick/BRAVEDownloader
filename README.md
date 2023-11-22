@@ -9,7 +9,7 @@ YouTube Video downloader provides a GUI interface for cli based yt-downloader li
 ### step1: run
 git clone https://github.com/niyirerayannick/BRAVEDownloader.git
 ### Step-2: Go inside the project folder, open cmd and type the following commands to install Django Framework and run the webserver:
-pip install -r requirements.txt
+pip install -r requirements.txt <br>
 python manage.py runserver
 ### Step-3: Finally, open the browser and go to localhost:8000
 
